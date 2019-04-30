@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+  
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+  
+p {
+  font-family: sans-serif;
+}
+  
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+p.stuff {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-stretch: expanded;
+  font-variant: small-caps;
+}
+
+p.parents {
+    font-style: italic;
+    font-stretch: expanded;
+}
+
