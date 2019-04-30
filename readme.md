@@ -14,6 +14,7 @@ This is our first readme file written in markdown
 * We simply created a file...
 * Opened it in Atom....
 * And wrote some markdown
+* Fun was had by all
 
 This is a work in progress for our Intro to Programming class.
 
